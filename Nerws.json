@@ -1,0 +1,20 @@
+[
+    {
+        "ImageUrl": "https://i.imgur.com/mmjMAtf.gif",
+        "Title": "Первая новость",
+        "Description": "Описание первой новости",
+        "Date": "01.01.2023"
+    },
+    {
+        "ImageUrl": "https://i.imgur.com/Ehk8S9L.jpeg",
+        "Title": "Вторая новость",
+        "Description": "Описание второй новости",
+        "Date": "02.01.2023"
+    },
+    {
+        "ImageUrl": "https://i.imgur.com/KvypCFo.jpeg",
+        "Title": "Третья новость",
+        "Description": "Описание третьей новости",
+        "Date": "03.01.2023"
+    }
+]
