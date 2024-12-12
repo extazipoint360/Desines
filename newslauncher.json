@@ -1,0 +1,23 @@
+[
+  {
+    "ImageUrl": "https://i.pinimg.com/originals/88/cd/3f/88cd3f105f4c0a3c99476cb1991838cb.gif",
+    "Title": "Обновление Лаунчера V_0.0.4",
+    "Description": "Внесён базовый функционал , возможность просмотра новостей , возможность перейти по ссыке что бы узнать подробности.",
+    "Date": "13.12.2024",
+    "AdditionalInfo": "https://i.imgur.com/Ehk8S9L.jpeg"
+  },
+  {
+    "ImageUrl": "https://i.pinimg.com/originals/88/cd/3f/88cd3f105f4c0a3c99476cb1991838cb.gif",
+    "Title": "Обновление Лаунчера V_0.0.3",
+    "Description": "Базовые функции",
+    "Date": "12.12.2024",
+    "AdditionalInfo": ""
+  },
+  {
+    "ImageUrl": "https://cdn-icons-png.flaticon.com/512/1601/1601884.png",
+    "Title": "Выпуск лаунчера",
+    "Description": "На нашем проекте появился свой лаунчер, который значител ьно упрощает доступ к игре и обновлениям. Теперь вам не нужно искать нужные файлы или переходить по многочисле нным ссылкам!",
+    "Date": "11.12.2024",
+    "AdditionalInfo": "https://i.imgur.com/Ehk8S9L.jpeg"
+  }
+]
